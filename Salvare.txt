@@ -1,0 +1,51 @@
+ProductID:101, denumirea:Pepsi, descriere:PET 1 litri,are pretul:20, cantitate:100
+
+
+ProductID:101, denumirea:Pepsi, descriere:Doza 0.33 litri,are pretul:2.5, cantitate:100
+
+ProductID:102, denumirea:Sprite, descriere:Doza 0.33 litri,are pretul:2.6, cantitate:100
+
+ProductID:103, denumirea:Cola light, descriere:PET 0.5 litri,are pretul:3, cantitate:50
+
+ProductID:101, denumirea:Pepsi, descriere:Doza 0.33 litri,are pretul:2.5, cantitate:100
+
+ProductID:102, denumirea:Sprite, descriere:Doza 0.33 litri,are pretul:2.6, cantitate:100
+
+ProductID:103, denumirea:Cola light, descriere:PET 0.5 litri,are pretul:3, cantitate:50
+
+ProductID:101, denumirea:Pepsi, descriere:Doza 0.33 litri,are pretul:2.5, cantitate:100
+
+ProductID:102, denumirea:Sprite, descriere:Doza 0.33 litri,are pretul:2.6, cantitate:100
+
+ProductID:103, denumirea:Cola light, descriere:PET 0.5 litri,are pretul:3, cantitate:50
+
+ProductID:101, denumirea:Pepsi, descriere:Doza 0.33 litri,are pretul:2.5, cantitate:100
+
+ProductID:102, denumirea:Sprite, descriere:Doza 0.33 litri,are pretul:2.6, cantitate:100
+
+ProductID:103, denumirea:Cola light, descriere:PET 0.5 litri,are pretul:3, cantitate:50
+
+ProductID:101, denumirea:Pepsi, descriere:Doza 0.33 litri,are pretul:2.5, cantitate:100
+
+ProductID:102, denumirea:Sprite, descriere:Doza 0.33 litri,are pretul:2.6, cantitate:100
+
+ProductID:103, denumirea:Cola light, descriere:PET 0.5 litri,are pretul:3, cantitate:50
+
+ProductID:101, denumirea:Pepsi, descriere:Doza 0.33 litri,are pretul:2.5, cantitate:100
+
+ProductID:102, denumirea:Sprite, descriere:Doza 0.33 litri,are pretul:2.6, cantitate:100
+
+ProductID:103, denumirea:Cola light, descriere:PET 0.5 litri,are pretul:3, cantitate:50
+
+ProductID:101, denumirea:Pepsi, descriere:Doza 0.33 litri,are pretul:2.5, cantitate:100
+
+ProductID:102, denumirea:Sprite, descriere:Doza 0.33 litri,are pretul:2.6, cantitate:100
+
+ProductID:103, denumirea:Cola light, descriere:PET 0.5 litri,are pretul:3, cantitate:50
+
+ProductID:101, denumirea:Pepsi, descriere:Doza 0.33 litri,are pretul:2.5, cantitate:100
+
+ProductID:102, denumirea:Sprite, descriere:Doza 0.33 litri,are pretul:2.6, cantitate:100
+
+ProductID:103, denumirea:Cola light, descriere:PET 0.5 litri,are pretul:3, cantitate:50
+
